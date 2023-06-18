@@ -174,5 +174,13 @@
     "salesDesc": "シリーズ発行累計10万部",
     "sourceDesc": "3巻帯（[イラストレーターTwitter](https://twitter.com/lalalalack/status/1661193791049728000)）",
     "isbn": "4046824433"
+  },
+  {
+    "title": "世界でいちばん透きとおった物語",
+    "salesValue": 100000,
+    "recordDate": "2023-06-14",
+    "salesDesc": "累計10万部突破",
+    "sourceDesc": "[新潮文庫nex Twitter](https://twitter.com/shinchobunkonex/status/1668895957667438593)",
+    "isbn": "4101802629"
   }
 ]
