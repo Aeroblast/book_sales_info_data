@@ -128,6 +128,14 @@
     "isbn": "4041111188"
   },
   {
+    "title": "異世界でチート能力を手にした俺は、現実世界をも無双する　～レベルアップは人生を変えた～",
+    "salesValue": 2000000,
+    "recordDate": "2023-03-31",
+    "salesDesc": "シリーズ累計200万部突破",
+    "sourceDesc": "[富士見ファンタジア文庫公式Twitter](https://twitter.com/fantasia_bunko/status/1641683702240649216)",
+    "isbn": "4040730232"
+  },
+  {
     "title": "塩対応の佐藤さんが俺にだけ甘い",
     "salesValue": 1000000,
     "recordDate": "2023-04-04",
@@ -182,5 +190,13 @@
     "salesDesc": "累計10万部突破",
     "sourceDesc": "[新潮文庫nex Twitter](https://twitter.com/shinchobunkonex/status/1668895957667438593)",
     "isbn": "4101802629"
+  },
+  {
+    "title": "異世界でチート能力を手にした俺は、現実世界をも無双する　～レベルアップは人生を変えた～",
+    "salesValue": 2500000,
+    "recordDate": "2023-06-20",
+    "salesDesc": "シリーズ累計250万部突破（文庫＋コミックス　ともに電子版を含む）",
+    "sourceDesc": "[富士見ファンタジア文庫公式Twitter](https://twitter.com/fantasia_bunko/status/1671064387875139585)",
+    "isbn": "4040730232"
   }
 ]
