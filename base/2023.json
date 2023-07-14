@@ -215,12 +215,20 @@
     "sourceDesc": "[リビルドワールド公式Twitter](https://twitter.com/RebuildWorld_PJ/status/1675793250202910722)",
     "isbn": "4049123940"
   },
-     {
+  {
     "title": "じつは義妹でした。",
     "salesValue": 200000,
     "recordDate": "2023-07-09",
     "salesDesc": "シリーズ累計20万部突破（電子書籍含む）",
     "sourceDesc": "[じつは義妹でした。公式Twitter](https://twitter.com/jitsuimo/status/1677877781324234752)",
     "isbn": "4040742931"
+  },
+  {
+    "title": "世界でいちばん透きとおった物語",
+    "salesValue": 180000,
+    "recordDate": "2023-07-12",
+    "salesDesc": "18万部突破",
+    "sourceDesc": "[日テレNEWS 記事](https://news.ntv.co.jp/category/culture/3e7afca7c0404f10b982f71f560781f6)",
+    "isbn": "4101802629"
   }
 ]
